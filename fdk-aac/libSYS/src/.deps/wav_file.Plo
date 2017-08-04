@@ -1,0 +1,25 @@
+libSYS/src/wav_file.lo: libSYS/src/wav_file.cpp libSYS/include/wav_file.h \
+ libSYS/include/genericStds.h libSYS/include/machine_type.h \
+ d:\softinstall\mingw\include\assert.h \
+ d:\softinstall\mingw\include\_mingw.h \
+ d:\softinstall\mingw\include\msvcrtver.h \
+ d:\softinstall\mingw\include\w32api.h \
+ d:\softinstall\mingw\include\sdkddkver.h libSYS/include/genericStds.h
+
+libSYS/include/wav_file.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/machine_type.h:
+
+d:\softinstall\mingw\include\assert.h:
+
+d:\softinstall\mingw\include\_mingw.h:
+
+d:\softinstall\mingw\include\msvcrtver.h:
+
+d:\softinstall\mingw\include\w32api.h:
+
+d:\softinstall\mingw\include\sdkddkver.h:
+
+libSYS/include/genericStds.h:
